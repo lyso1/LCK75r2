@@ -1,4 +1,4 @@
-LCK75r2 kit hardware:
+LCK75r2 THT kit hardware:
 
 -30x 6mm M2 screws
 
