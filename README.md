@@ -1,7 +1,7 @@
 
 # LCK75r2
 
-The 2nd revision of the LCK75, this updated the supported layouts to have ISO and split backspace. 
+The 2nd revision of the LCK75, this is updated to supported more layouts options such as ISO and split backspace. 
 
 ![LCK75-Mainboard](https://cdn.discordapp.com/attachments/362014190984101899/941489778023628861/d5785ce7c6750694bd8e476ec2901076.png)
 
@@ -15,8 +15,6 @@ The 2nd revision of the LCK75, this updated the supported layouts to have ISO an
 
 ![LCK75-Bottom2](https://cdn.discordapp.com/attachments/362014190984101899/941489780003332096/c150f6a2bf9414626f1b7359fe170753.png)
 
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
-
-i will not be held responsible for your endeavors with private runs of this board. 
+This is under the MIT liscense, due to this, i will not be held responsible for your endeavors with private runs of this board. 
 
 if you have questions reach out to me on discord @Lysol#5640
