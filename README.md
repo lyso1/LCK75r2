@@ -3,6 +3,8 @@
 
 The 2nd revision of the LCK75, this is updated to supported more layouts options such as ISO and split backspace. 
 
+You can find the BOM for the mainboard here - https://octopart.com/bom-tool/ZgQKLyxD
+
 ![LCK75-Mainboard](https://cdn.discordapp.com/attachments/362014190984101899/941489778023628861/d5785ce7c6750694bd8e476ec2901076.png)
 
 ![LCK75-Mainboard2](https://cdn.discordapp.com/attachments/362014190984101899/941489779403550750/bf7b0f2e6338409b384ffbbd42bb0aa3.png)
